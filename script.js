@@ -26,7 +26,6 @@ var words = [
   "Mahal ko ang mga pusa"
 ];
 
-// hidden canvas where the cat is drawn so we can find its shape
 var hidden = document.createElement("canvas");
 hidden.width = w;
 hidden.height = h;
